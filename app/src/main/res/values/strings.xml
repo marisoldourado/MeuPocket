@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MeuPocket</string>
+    <string name="txtv_title">Informe o título</string>
+    <string name="txtv_url">Informe a URL</string>
+    <string name="btn_save">Salvar</string>
+    <string name="txtv_header">PREENCHA OS CAMPOS PARA INCLUIR UM NOVO SITE</string>
+    <string name="fields_validade">Preencha os campos título e URL para incluir o site!</string>
+    <string name="key_new_site">NEW_SITE</string>
+    <string name="key_site">SITE</string>
+</resources>
